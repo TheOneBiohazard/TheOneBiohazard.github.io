@@ -1,0 +1,39 @@
+p { 
+    background-color: grey;
+}
+p { 
+    color:#d81616;
+}
+img { 
+    /* border-style: dashed;
+    border-width: 4px;
+    border-color: black; */
+    border:dashed 10px black;
+}
+.contenu-mixte {text-align: center;
+}
+.contenu-texte 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+} 
+#section-1 
+{
+    color:blue;
+}
+#section-2
+{
+    color: orange;
+}
+#section-3
+{
+    color: purple;
+}
+.contenu-mixte p
+{
+    text-align: right;
+}
+#section-3 p
+{
+    text-align: justify;
+}
